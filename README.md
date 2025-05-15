@@ -40,17 +40,19 @@ El objetivo es demostrar la implementación y consumo de servicios REST en disti
 ```text
 RESTSINBDD_GR01/
 ├── Java/
-│   ├── ServidorREST/
-│   ├── ClienteConsola/
-│   ├── ClienteWeb/
-│   ├── ClienteMovil/
-│   └── ClienteEscritorio/
+│   ├── 01. SERVIDOR/
+│   ├── 02. CLICON/
+│   ├── 02. CLIMOV/
+│   ├── 02. CLIWEB/
+│   ├── 03. BDD/
+│   └── 04. DOCUMENTACIÓN/
 ├── DotNet/
-│   ├── ServidorREST/
-│   ├── ClienteConsola/
-│   ├── ClienteWeb/
-│   ├── ClienteMovil/
-│   └── ClienteEscritorio/
+│   ├── 01. SERVIDOR/
+│   ├── 02. CLICON/
+│   ├── 02. CLIMOV/
+│   ├── 02. CLIWEB/
+│   ├── 03. BDD/
+│   └── 04. DOCUMENTACIÓN/
 └── README.md
 ```
 
