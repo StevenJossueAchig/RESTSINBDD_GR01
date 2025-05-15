@@ -37,20 +37,7 @@ El objetivo es demostrar la implementación y consumo de servicios REST en disti
 - IIS (Internet Information Services)
 
 ## Estructura del Repositorio
-RESTSINBDD_GR01/
-├── Java/
-│ ├── ServidorREST/
-│ ├── ClienteConsola/
-│ ├── ClienteWeb/
-│ ├── ClienteMovil/
-│ └── ClienteEscritorio/
-├── DotNet/
-│ ├── ServidorREST/
-│ ├── ClienteConsola/
-│ ├── ClienteWeb/
-│ ├── ClienteMovil/
-│ └── ClienteEscritorio/
-└── README.md
+<pre> ```text RESTSINBDD_GR01/ ├── Java/ │ ├── ServidorREST/ │ ├── ClienteConsola/ │ ├── ClienteWeb/ │ ├── ClienteMovil/ │ └── ClienteEscritorio/ ├── DotNet/ │ ├── ServidorREST/ │ ├── ClienteConsola/ │ ├── ClienteWeb/ │ ├── ClienteMovil/ │ └── ClienteEscritorio/ └── README.md ``` </pre>
 
 ## Requisitos Previos
 
@@ -63,6 +50,10 @@ Asegúrate de tener instalados los siguientes componentes antes de ejecutar los 
 - [Payara Server](https://www.payara.fish/downloads/)
 - [IIS (Windows)](https://learn.microsoft.com/en-us/iis/install/installing-iis-7/)
 
+## Licencia
+
+Este proyecto está autorizado bajo la Licencia MIT; consulte el archivo de [Licencia](LICENSE.txt) para mas detalles.
+
 ## Instalación
 
 ### 1. Clonar el repositorio
@@ -71,7 +62,5 @@ Asegúrate de tener instalados los siguientes componentes antes de ejecutar los 
 git clone https://github.com/tuusuario/RESTSINBDD_GR01.git
 cd RESTSINBDD_GR01
 
-## Licencia
 
-Este proyecto está autorizado bajo la Licencia MIT; consulte el archivo de [Licencia](LICENSE.txt) para mas detalles.
 
