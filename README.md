@@ -37,7 +37,23 @@ El objetivo es demostrar la implementación y consumo de servicios REST en disti
 - IIS (Internet Information Services)
 
 ## Estructura del Repositorio
-<pre> ```text RESTSINBDD_GR01/ ├── Java/ │ ├── ServidorREST/ │ ├── ClienteConsola/ │ ├── ClienteWeb/ │ ├── ClienteMovil/ │ └── ClienteEscritorio/ ├── DotNet/ │ ├── ServidorREST/ │ ├── ClienteConsola/ │ ├── ClienteWeb/ │ ├── ClienteMovil/ │ └── ClienteEscritorio/ └── README.md ``` </pre>
+```text
+RESTSINBDD_GR01/
+├── Java/
+│   ├── ServidorREST/
+│   ├── ClienteConsola/
+│   ├── ClienteWeb/
+│   ├── ClienteMovil/
+│   └── ClienteEscritorio/
+├── DotNet/
+│   ├── ServidorREST/
+│   ├── ClienteConsola/
+│   ├── ClienteWeb/
+│   ├── ClienteMovil/
+│   └── ClienteEscritorio/
+└── README.md
+```
+
 
 ## Requisitos Previos
 
